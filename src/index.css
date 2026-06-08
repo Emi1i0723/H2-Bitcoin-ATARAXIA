@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  
+  --color-brand-red: #E60023;
+  --color-brand-blue: #2F9CF5;
+  --color-brand-purple: #B7A6FF;
+  --color-brand-yellow: #FFD600;
+  --color-brand-dark: #111111;
+  --color-brand-light: #F5F5F5;
+  
+  --color-brand-dark-soft: #1C1C1E;
+}
+
+@layer base {
+  body {
+    background-color: #F5F5F5;
+    color: #111111;
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* Custom visual styles for clean aesthetics in Professional Polish Theme */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.9);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(17, 11, 11, 0.08);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #111111 0%, #E60023 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Elegant scrollbar for light interface */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E0E0E0;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #E60023;
+}
