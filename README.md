@@ -1,5 +1,7 @@
 # 🚀 Ataraxia
 
+# Link del simulador: https://h2-bitcoin-ataraxia.vercel.app/ 
+
 ## La primera wallet hispana diseñada para nuevos usuarios mexicanos que buscan introducirse en el mundo bitcoin sin complicaciones técnicas.
 
 Ataraxia nace con una misión clara:
