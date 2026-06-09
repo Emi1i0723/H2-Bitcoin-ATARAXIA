@@ -6,7 +6,7 @@ Ataraxia nace con una misión clara:
 
 **Hacer que Bitcoin y la autocustodia sean accesibles para cualquier persona, independientemente de su experiencia técnica.**
 
-Mientras que millones de usuarios encuentran barreras al ingresar al ecosistema Bitcoin debido a conceptos complejos, configuraciones avanzadas y una experiencia poco amigable, Ataraxia busca eliminar esa fricción mediante una wallet completa, potenciada por un apartado educativo y centrada en que el usario tenga la auto custodia de sus cripto activos y cree su wallet de forma intuitiva, rápida, y segura.
+Mientras que millones de usuarios encuentran barreras al ingresar al ecosistema Bitcoin debido a conceptos complejos, configuraciones avanzadas y una experiencia poco amigable, Ataraxia busca eliminar esa fricción mediante una wallet completa, potenciada por un apartado educativo y centrada en que el usuario tenga la auto custodia de sus cripto activos y cree su wallet de forma intuitiva, rápida, y segura.
 
 ---
 
@@ -159,9 +159,9 @@ La wallet incorpora las funcionalidades esenciales:
 
 Visualización de:
 
-* Balance en BTC
 * Balance en Satoshis
 * Balance en MXN
+* Balance en USD
 * Historial reciente
 
 ---
@@ -169,6 +169,8 @@ Visualización de:
 ## Enviar
 
 Transferencia tradicional de Bitcoin.
+* Dirección del destinatario
+* Cantidad de cripto activos a transferir
 
 ---
 
@@ -240,7 +242,7 @@ Conceptos incluidos:
 
 ## Nuestra propuesta diferenciadora
 
-ARK LINK es una funcionalidad diseñada para realizar transferencias de Bitcoin de forma inmediata entre dos dispositivos cercanos.
+ARK LINK es una funcionalidad diseñada para realizar transferencias de cripto monedas de forma inmediata entre dos dispositivos cercanos.
 
 Inspirado en la experiencia de pagos digitales modernos.
 
@@ -292,11 +294,15 @@ Llegará cuando cualquier persona pueda utilizarla sin sentirse intimidada.
 
 Ataraxia busca convertirse en la puerta de entrada al ecosistema Bitcoin para millones de usuarios hispanohablantes.
 
+*"La complejidad no debería ser el precio de la soberanía financiera. 
+Estoy de camino de plantear una revolución que puede cambiar la forma de ver una wallet y el uso de Bitcoin en México. 
+¿Me acompañan o se quedan atrás? ¡Muchas gracias!"*
+
 ---
 
 ## Creado por
 
-**Emilio**
+**Emilio Alfredo Cervera Uicab**
 
 ## Tecnología
 Google AI Studio 
@@ -306,7 +312,4 @@ Proyecto desarrollado para impulsar la adpoción del Bitcoin y la autocustodia e
 
 ---
 
-*"La complejidad no debería ser el precio de la soberanía financiera. 
-Estoy de camino de plantear una revolución que puede cambiar la forma de ver una wallet y el uso de Bitcoin en México. 
-¿Me acompañan o se quedan atrás? ¡Muchas gracias!"*
 
